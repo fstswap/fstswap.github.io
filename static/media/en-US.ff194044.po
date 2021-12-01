@@ -2295,10 +2295,6 @@ msgstr "{actionName}"
 msgid "{activeTokensOnThisChain} tokens"
 msgstr "{activeTokensOnThisChain} tokens"
 
-#: src/pages/PoolAnalysis/Components.tsx
-msgid "{label}"
-msgstr "{label}"
-
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "{percentForSlider}%"
 msgstr "{percentForSlider}%"
